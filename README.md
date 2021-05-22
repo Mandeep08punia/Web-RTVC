@@ -1,16 +1,14 @@
-#  Meeting
+#  Web-RTVC
 
 Developed with ReactJS, Node.js, SocketIO.
 
-### Website
-(https://github.com/Mandeep08punia/web-based-realtime-video-calling-app)
 
 
 ### Features
 - Unlimited users
 - Messaging chat and video streaming in real-time
 - Screen sharing to present documents, slides, and more
-- Everyting is peer-to-peer thanks to webrtc
+- Everyting is peer-to-peer
 
 
 ### Local setup
